@@ -63,7 +63,8 @@
       "uscensusbureau",
       "useda",
       "USPTO",
-      "XDgov"
+      "XDgov",
+      {"usnistgov": "https://code.nist.gov"}
     ]
   },
   {
